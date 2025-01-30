@@ -32,7 +32,11 @@ A simple desktop application built using **JavaFX** and **MySQL** for managing e
 1. Clone the repository:
    ```bash
    git clone https://github.com/404ahmd/Employee-Management-JavaFX.git
-  
+ 
+
+### Early Version Release
+Version: [v1.0.0](https://github.com/404ahmd/Employee-Management-JavaFX/releases/tag/JavaFX) - 29 Jan 2025
+
 
 
 
